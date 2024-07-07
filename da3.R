@@ -1,4 +1,4 @@
-df = read.csv("F:\\vit\\YEAR 3\\SEM 6\\ess of data anal\\DA\\assignment\\wfp_food_prices_lka.csv")
+df = read.csv("C:\\Users\\HP\\OneDrive\\Documents\\GitHub\\Food-price-forecast\\wfp_food_prices_lka.csv")
 head(df)
 summary(df)
 nrow(df)
